@@ -1,0 +1,6 @@
+﻿  bec-Mtnx.cpp
+  Matrix.cpp
+C:\Users\tdroz\OneDrive\Pulpit\PROGRAMOWANIE_OBIEKTOWE\Obiektowe\projektnr4\bec-Mtnx\bec-Mtnx\Matrix.cpp(10,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Vector.cpp
+  Generating Code...
+  bec-Mtnx.vcxproj -> C:\Users\tdroz\OneDrive\Pulpit\PROGRAMOWANIE_OBIEKTOWE\Obiektowe\projektnr4\bec-Mtnx\x64\Debug\bec-Mtnx.exe
